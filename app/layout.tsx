@@ -11,7 +11,7 @@ const syne = Syne({
 
 export const metadata: Metadata = {
     metadataBase: new URL("https://www.tilak_adroja.netlify.app/"),
-    title: "Tilak Adroja",
+    title: "Tilak's Portfolio",
     description:
     "Hobby Designer and Software Engineer, currently at Neumann Kaffee Gruppe. Focused on immersive experiences, studying in Hamburg, Germany.",
     generator: "Next.js",

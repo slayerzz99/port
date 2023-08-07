@@ -34,7 +34,7 @@ export const projects = [
         techNames: ["TypeScript", "React", "Next.js", "Tailwind CSS", "Framer Motion"],
         techLinks: ["https://www.typescriptlang.org/", "https://reactjs.org/", "https://nextjs.org/", "https://tailwindcss.com/", "https://www.framer.com/motion/"],
         github: "https://github.com/nuIIpointerexception/",
-        demo: "https://www.seekvisualartist.com/",
+        demo: "https://tilak.vercel.app/",
         image: "/projects/portfolio.webp",
         available: true,
     },
