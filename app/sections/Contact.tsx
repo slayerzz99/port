@@ -79,12 +79,12 @@ const Contact = () => {
                             />
                         </Link> */}
                         <Link
-                            href="https://discord.com/users/670132758772711432"
+                            href="https://github.com/tilak-git"
                             target="_blank"
                             aria-label="View Discord Profile"
                         >
                             <AnimatedTitle
-                                text={"DISCORD"}
+                                text={"GITHUB"}
                                 className={
                                     "text-[16px] font-bold text-[#e4ded7] sm:text-[20px] md:text-[16px] lg:text-[28px]"
                                 }

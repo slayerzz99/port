@@ -8,9 +8,10 @@ import {
     SiAdobephotoshop, SiAstro, SiCinema4D, SiCplusplus, SiFigma, SiFramer, SiGit,
     SiGithub,
     SiGooglechrome, SiGooglefonts,
-    SiIntellijidea, SiJavascript, SiKotlin, SiLua,
+    SiIntellijidea, SiJavascript, SiKotlin, SiLua, SiAmazonaws, 
     SiNeovim, SiNextdotjs, SiReact, SiRust, SiTypescript, SiWebstorm, SiZig , SiTailwindcss, SiNodedotjs, SiExpress, SiMongodb, SiBootstrap
 } from "react-icons/si";
+import { BiLogoGoLang } from "react-icons/bi";
 import AnimatedTools from "../animations/AnimatedTools.tsx";
 
 const Tools = () => {
@@ -60,9 +61,9 @@ const Tools = () => {
                             <AnimatedTools className="grid grid-cols-5 gap-4" delay={0.3} stepSize={0.1} iconSize={50}>
                                 <SiNodedotjs size={50}/>
                                 <SiExpress size={50}/>
-                                <SiCplusplus size={50}/>
+                                <BiLogoGoLang size={50}/>
                                 <SiMongodb size={50}/>
-                                <SiJavascript size={50}/>
+                                <SiAmazonaws size={50}/>
                             </AnimatedTools>
                         </div>
                     </div>
